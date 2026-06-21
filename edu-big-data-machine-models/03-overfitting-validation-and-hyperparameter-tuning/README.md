@@ -1,9 +1,9 @@
 # Отчёт по ЛР 03: Overfitting, Validation and Honest Hyperparameter Tuning
 
 ## 1. Контекст
-- Выполнила: Тарасова Даша
+- Выполнила: Нуриева Джамиля
 - Группа: ИВТ 1.2
-- Дата: 2026-06-02
+- Дата: 2026-06-21
 
 
 ## 2. Candidate feature set из ЛР 01
